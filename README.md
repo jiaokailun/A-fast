@@ -1,4 +1,4 @@
-# A fast convergence multi-class balanced generation method for black-box attacks based on limited samples and queries
+# Multi-class Balancing and Realistic SampleGeneration Method for Black-box Attacks Based on Limited Samples and Queries
 
 Environment:
   Pytorch 1.12.0
